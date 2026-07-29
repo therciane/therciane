@@ -24,6 +24,7 @@ Além das linhas de código, sou completamente apaixonada por **cultura pop** �
 ### 🎨 Frameworks & Estilização
 <p align="left">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green" alt ="SpringBoot"/>
 </p>
 
 ---
